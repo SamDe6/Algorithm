@@ -1,9 +1,7 @@
-package src.com.sam.algopractice;
+package com.sam.algopractice;
 
 import java.util.Arrays;
 import java.util.List;
-
-import com.sam.algopractice.QuickSort;
 
 public class Main {
     private static QuickSort quickSort;
